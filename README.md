@@ -20,6 +20,7 @@ public class JackDanielxs {
 
 <p align="center">Computer Science undergraduate at PUC Minas, committed to continuously developing my knowledge and taking on new challenges in the field of technology. Passionate about learning and applying both theoretical and practical concepts to develop effective and creative solutions.</p>
 <p align="center">
+    <span>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span>
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?color=9c3ca3&lines=Creative+Developer;Continuous+Learner;Problem+Solver" />
     </a>
