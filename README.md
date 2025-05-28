@@ -1,10 +1,5 @@
 <h3 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> Hi, I’m JackDanielxs</h3>
-<h3 align="center">A Full-Stack dev from Brazil <img width="25" src="http://purecatamphetamine.github.io/country-flag-icons/3x2/BR.svg"/></h3>
-
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=009b3a&lines=Creative+Developer;Continuous+Learner;Problem+Solver)](https://git.io/typing-svg)
-
+<h3 align="center">A Full-Stack developer from Brazil &nbsp; <img width="25" src="http://purecatamphetamine.github.io/country-flag-icons/3x2/BR.svg"/></h3>
 
 ## About Me
 
@@ -22,6 +17,9 @@ public class JackDanielxs {
     }
 }
 ```
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=9c3ca3&lines=Creative+Developer;Continuous+Learner;Problem+Solver" />
+</a>
 
 ## ***My current tech stack***
 
