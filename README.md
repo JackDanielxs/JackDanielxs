@@ -1,33 +1,62 @@
-## ***Tech Stack***
+<h3 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> Hi, I’m JackDanielxs</h3>
+<h3 align="center">A Full-Stack dev from Brazil <img width="25" src="http://purecatamphetamine.github.io/country-flag-icons/3x2/BR.svg"/></h3>
 
-### ***🖥️ Linguagens***
 
-<p align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=009b3a&lines=Creative+Developer;Continuous+Learner;Problem+Solver)](https://git.io/typing-svg)
+
+
+## About Me
+
+```java
+public class JackDanielxs {
+    public Name name;
+    public int age;
+    public List<Language> langs;
+
+    public JackDanielxs() {
+        JackDanielxs j = new JackDanielxs();
+        j.name = new Name("Daniel", "Marques");
+        j.age = 20;
+        j.langs = Arrays.asList(Language.PORTUGUESE, Language.ENGLISH, Language.SPANISH, Language.FRENCH);
+    }
+}
+```
+
+## ***My current tech stack***
+
+### ***🛠️ Tools***
+
+<p align="left">
+  <span>&emsp;</span>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,aws,azure,stackoverflow,git" />
   </a>
 </p>
 
-### ***📚 Frameworks e Bibliotecas***
+### ***📚 Frameworks and libraries***
 
-<p align="center">
+<p align="left">
+  <span>&emsp;</span>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,spring" />
+    <img src="https://skillicons.dev/icons?i=windows,linux,dotnet,spring,maven,fastapi,matlab" />
   </a>
 </p>
 
-### ***🛢️ Banco de Dados***
+### ***🖥️ Languages***
 
-<p align="center">
+<p align="left">
+  <span>&emsp;</span>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,html,css,js" />
+  </a>
+</p>
+
+### ***🛢️ Data management***
+
+<p align="left">
+  <span>&emsp;</span>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" />
-  </a>
-</p>
-
-### ***🛠️ Ferramentas***
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,aws,azure,matlab,stackoverflow,git" />
   </a>
 </p>
