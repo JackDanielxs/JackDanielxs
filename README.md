@@ -10,10 +10,9 @@ public class JackDanielxs {
     public List<Language> langs;
 
     public JackDanielxs() {
-        JackDanielxs j = new JackDanielxs();
-        j.name = new Name("Daniel", "Marques");
-        j.age = 20;
-        j.langs = Arrays.asList(Language.PORTUGUESE, Language.ENGLISH, Language.SPANISH, Language.FRENCH);
+        name = new Name("Daniel", "Marques");
+        age = 20;
+        langs = Arrays.asList(Language.PORTUGUESE, Language.ENGLISH, Language.SPANISH, Language.FRENCH);
     }
 }
 ```
