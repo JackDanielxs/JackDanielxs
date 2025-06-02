@@ -62,3 +62,6 @@ public class JackDanielxs {
     <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" />
   </a>
 </p>
+
+<p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{JackDanielxs}/count.svg"/></p>
