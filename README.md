@@ -41,7 +41,7 @@ public class JackDanielxs {
 <p align="left">
   <span>&emsp;</span>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,dotnet,spring,maven,cmake,matlab,fastapi" />
+    <img src="https://skillicons.dev/icons?i=windows,dotnet,spring,maven,cmake,fastapi" />
   </a>
 </p>
 
