@@ -32,7 +32,7 @@ public class JackDanielxs {
 <p align="left">
   <span>&emsp;</span>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,aws,azure,git" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,aws,azure,stackoverflow" />
   </a>
 </p>
 
