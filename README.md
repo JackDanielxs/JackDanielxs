@@ -36,7 +36,7 @@ public class JackDanielxs {
   </a>
 </p>
 
-### ***📚 Frameworks and libraries***
+### ***📚 OS, Frameworks and libraries***
 
 <p align="left">
   <span>&emsp;</span>
