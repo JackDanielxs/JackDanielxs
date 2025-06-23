@@ -1,7 +1,7 @@
 <h3 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> Hi, I’m Daniel</h3>
 <h3 align="center">A Full-Stack developer from Brazil &nbsp; <img width="25" src="http://purecatamphetamine.github.io/country-flag-icons/3x2/BR.svg"/></h3>
 
-## About Me
+## ***About Me***
 
 ```java
 public class JackDanielxs {
@@ -21,7 +21,7 @@ public class JackDanielxs {
 <p align="center">
     <span>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span>
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?color=9c3ca3&lines=Creative+Developer;Continuous+Learner;Code+Troubleshooter;Pragmatic+Engineer;Innovative+Creator;Performance+Tuner" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=79c0ff&lines=Creative+Developer;Continuous+Learner;Code+Troubleshooter;Pragmatic+Engineer;Innovative+Creator;Performance+Tuner" />
     </a>
 </p>
 
