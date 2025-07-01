@@ -63,6 +63,15 @@ public class JackDanielxs {
   </a>
 </p>
 
+## ***Learning***
+
+<p align="left">
+  <span>&emsp;</span>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ts,tailwind,nodejs" />
+  </a>
+</p>
+
 <div align="center">
 <br><p align="centre"><b>Visitor Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{JackDanielxs}/count.svg"/></p>
