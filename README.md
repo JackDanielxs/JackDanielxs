@@ -50,7 +50,7 @@ public class JackDanielxs {
 <p align="left">
   <span>&emsp;</span>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=c,cs,java,html,css,js" />
   </a>
 </p>
 
