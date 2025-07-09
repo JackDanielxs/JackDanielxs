@@ -72,7 +72,6 @@ public class JackDanielxs {
   </a>
 </p>
 
-<div align="center">
-<br><p align="centre"><b>Visitor Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{JackDanielxs}/count.svg"/></p>
-<br></div>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=JackDanielxs.JackDanielxs&style=for-the-badge&color=79c0ff&label=Profile%20Views&logo=eye&logoColor=white&labelColor=0b1c2c" />
+</p>
