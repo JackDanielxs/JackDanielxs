@@ -74,7 +74,7 @@ public class JackDanielxs {
 
 <p align="middle">
     <a href="https://github.com/kittinan/spotify-github-profile">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=dmmarquestop1&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color_cover=true" 
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=dmmarquestop1&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=true&bar_color_cover=true" 
              width="250"/>
     </a>
 </p>
