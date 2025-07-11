@@ -72,15 +72,13 @@ public class JackDanielxs {
   </a>
 </p>
 
-<table align="center">
-  <tr>
-    <td valign="middle" border="0">
-      <a href="https://github.com/kittinan/spotify-github-profile">
+<p align="middle">
+    <a href="https://github.com/kittinan/spotify-github-profile">
         <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=dmmarquestop1&cover_image=true&theme=novatorem&show_offline=true&background_color=101414&interchange=false&bar_color=79c0ff&bar_color_cover=false" />
-      </a>
-    </td>
-    <td valign="middle" border="0">
-      <img src="https://visitor-badge.laobi.icu/badge?page_id=JackDanielxs.JackDanielxs&style=for-the-badge&color=79c0ff&label=Profile%20Views&logo=eye&logoColor=white&labelColor=0b1c2c" />
-    </td>
-  </tr>
-</table>
+    </a>
+</p>
+
+<p align="middle">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=JackDanielxs.JackDanielxs&style=for-the-badge&color=79c0ff&label=Profile%20Views&logo=eye&logoColor=white&labelColor=0b1c2c" />
+</p>
+    
