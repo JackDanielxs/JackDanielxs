@@ -31,8 +31,8 @@ public class JackDanielxs {
 
 <p align="left">
   <span>&emsp;</span>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,github,aws,azure,stackoverflow" />
+  <a href="https://github.com/syvixor/skills-icons">
+    <img src="https://skills.syvixor.com/api/icons?i=visualstudio,visualstudiocode,eclipseide,github,githubcopilot,amazonwebservices,azure,stackoverflow" />
   </a>
 </p>
 
@@ -40,8 +40,8 @@ public class JackDanielxs {
 
 <p align="left">
   <span>&emsp;</span>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,dotnet,spring,maven,cmake,fastapi" />
+  <a href="https://github.com/syvixor/skills-icons">
+    <img src="https://skills.syvixor.com/api/icons?i=windows,dotnet,springboot,apachemaven,matlab,cmake,fastapi" />
   </a>
 </p>
 
@@ -49,8 +49,8 @@ public class JackDanielxs {
 
 <p align="left">
   <span>&emsp;</span>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,java,html,css,js" />
+  <a href="https://github.com/syvixor/skills-icons">
+    <img src="https://skills.syvixor.com/api/icons?i=c,csharp,java,html,css,javascript" />
   </a>
 </p>
 
@@ -58,8 +58,8 @@ public class JackDanielxs {
 
 <p align="left">
   <span>&emsp;</span>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" />
+  <a href="https://github.com/syvixor/skills-icons">
+    <img src="https://skills.syvixor.com/api/icons?i=sqlserver,postgresql,mysql,supabase" />
   </a>
 </p>
 
@@ -67,8 +67,8 @@ public class JackDanielxs {
 
 <p align="left">
   <span>&emsp;</span>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,tailwind,nodejs" />
+  <a href="https://github.com/syvixor/skills-icons">
+    <img src="https://skills.syvixor.com/api/icons?i=python,typescript,tailwindcss,nodejs" />
   </a>
 </p>
 
