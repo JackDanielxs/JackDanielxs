@@ -7,7 +7,7 @@
 public class JackDanielxs {
     public Name name;
     public int age;
-    public List<Language> langs;
+    public List<Language> spokenLangs;
 
     public JackDanielxs() {
         name = new Name("Daniel", "Marques");
