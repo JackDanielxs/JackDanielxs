@@ -12,7 +12,7 @@ public class JackDanielxs {
     public JackDanielxs() {
         name = new Name("Daniel", "Marques");
         age = 20;
-        langs = Arrays.asList(Language.PORTUGUESE, Language.ENGLISH, Language.SPANISH, Language.FRENCH);
+        spokenLangs = Arrays.asList(Language.PORTUGUESE, Language.ENGLISH, Language.SPANISH, Language.FRENCH);
     }
 }
 ```
