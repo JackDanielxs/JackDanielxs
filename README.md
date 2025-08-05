@@ -27,25 +27,34 @@ public class JackDanielxs {
 
 ## ***My current tech stack***
 
-### ***🛠️ Tools***
+### ***🛠️ IDEs & Development Environments***
 
 <p align="left">
   <span>&emsp;</span>
   <a href="https://github.com/syvixor/skills-icons">
-    <img src="https://skills.syvixor.com/api/icons?i=visualstudio,visualstudiocode,eclipseide,github,githubcopilot,amazonwebservices,azure,stackoverflow" />
+    <img src="https://skills.syvixor.com/api/icons?i=visualstudio,visualstudiocode,eclipseide" />
   </a>
 </p>
 
-### ***📚 OS, Frameworks and libraries***
+### ***⚙️ Frameworks & Tools***
 
 <p align="left">
   <span>&emsp;</span>
   <a href="https://github.com/syvixor/skills-icons">
-    <img src="https://skills.syvixor.com/api/icons?i=windows,dotnet,springboot,apachemaven,matlab,cmake,fastapi" />
+    <img src="https://skills.syvixor.com/api/icons?i=dotnet,springboot,apachemaven,github,githubcopilot" />
   </a>
 </p>
 
-### ***🖥️ Languages***
+### ***☁️ Cloud & Platforms***
+
+<p align="left">
+  <span>&emsp;</span>
+  <a href="https://github.com/syvixor/skills-icons">
+    <img src="https://skills.syvixor.com/api/icons?i=azure,aws,windows,stackoverflow" />
+  </a>
+</p>
+
+### ***🖥️ Programming Languages & Web Technologies***
 
 <p align="left">
   <span>&emsp;</span>
@@ -54,7 +63,7 @@ public class JackDanielxs {
   </a>
 </p>
 
-### ***🛢️ Data management***
+### ***🛢️ Databases***
 
 <p align="left">
   <span>&emsp;</span>
