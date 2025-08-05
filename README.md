@@ -59,7 +59,7 @@ public class JackDanielxs {
 <p align="left">
   <span>&emsp;</span>
   <a href="https://github.com/syvixor/skills-icons">
-    <img src="https://skills.syvixor.com/api/icons?i=sqlserver,postgresql,mysql,supabase" />
+    <img src="https://skills.syvixor.com/api/icons?i=sqlserver,postgresql" />
   </a>
 </p>
 
