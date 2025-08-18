@@ -41,7 +41,7 @@ public class JackDanielxs {
 <p align="left">
   <span>&emsp;</span>
   <a href="https://github.com/syvixor/skills-icons">
-    <img src="https://skills.syvixor.com/api/icons?i=dotnet,springboot,apachemaven,github,githubcopilot" />
+    <img src="https://skills.syvixor.com/api/icons?i=dotnet,springboot,apachemaven,spark,github,githubcopilot" />
   </a>
 </p>
 
