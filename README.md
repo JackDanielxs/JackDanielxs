@@ -77,7 +77,7 @@ public class JackDanielxs {
 <p align="left">
   <span>&emsp;</span>
   <a href="https://github.com/syvixor/skills-icons">
-    <img src="https://skills.syvixor.com/api/icons?i=python,typescript,tailwindcss,nodejs" />
+    <img src="https://skills.syvixor.com/api/icons?i=python,react,typescript,tailwindcss,nodejs" />
   </a>
 </p>
 
